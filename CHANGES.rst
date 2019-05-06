@@ -11,6 +11,7 @@ Unreleased
 - Fix link in ``unicode_literals`` error message. (`#1151`_)
 - Add support for colored output on UNIX Jupyter notebooks. (`#1185`_)
 - Remove unused compat shim for ``bytes``. (`#1195`_)
+- Add newline padding for multi-line option help messages. (`#1075`_)
 
 .. _#1167: https://github.com/pallets/click/pull/1167
 .. _#1151: https://github.com/pallets/click/pull/1151
